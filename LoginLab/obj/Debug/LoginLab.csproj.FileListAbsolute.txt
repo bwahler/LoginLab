@@ -1,0 +1,7 @@
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\bin\Debug\LoginLab.exe.config
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\bin\Debug\LoginLab.exe
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\bin\Debug\LoginLab.pdb
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\obj\Debug\LoginLab.csprojAssemblyReference.cache
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\obj\Debug\LoginLab.csproj.CoreCompileInputs.cache
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\obj\Debug\LoginLab.exe
+C:\Users\bmwah\source\repos\LoginLab\LoginLab\obj\Debug\LoginLab.pdb
